@@ -1,4 +1,4 @@
 # cppPool
-Short (two week long), intensive course of C++.
+Short (two weeks long), intensive course of C++.
 
 # Final score: 118/125
